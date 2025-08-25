@@ -7,7 +7,7 @@ A comprehensive Streamlit-based dashboard for comparing cancer drug prices betwe
 This interactive dashboard provides detailed analysis and visualization of price differences between Medicare Part D prescription drug prices and Cost Plus Drugs pricing. The tool helps identify potential cost savings opportunities and analyzes spending patterns across different cancer medications.
 
 ## Online Streamlit Dashboard
-[https://dissertation45050.streamlit.app/] (https://dissertation45050.streamlit.app/)
+https://dissertation45050.streamlit.app/
 
 ## ✨ Key Features
 
@@ -230,3 +230,4 @@ For technical issues or questions about the dashboard:
 
 
 **Disclaimer**: This tool is for research and educational purposes. Results should be verified and interpreted within appropriate healthcare policy and economic contexts.
+
